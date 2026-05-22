@@ -2,17 +2,42 @@
 
 Samling av **offisielle, åpne API-er** fra norske etater og operatører. Primært norske kilder — kun lenker til dokumentasjon hos tilbyderen, ingen wrappers.
 
-| API | Dokumentasjon | Slik bruker du |
-| --- | --- | --- |
-| Vegvesen | [vegvesen.no — åpne data](https://www.vegvesen.no/fag/teknologi/apne-data/et-utvalg-apne-data/) | [Slik får du tilgang](https://www.vegvesen.no/fag/teknologi/apne-data/slik-far-du-tilgang-til-et-api/) |
-| Vegvesen (DatexII trafikk) | [vegvesen.no — DATEX](https://www.vegvesen.no/fag/teknologi/apne-data/et-utvalg-apne-data/hva-er-datex/) | [Bestill tilgang](https://www.vegvesen.no/fag/teknologi/apne-data/et-utvalg-apne-data/hva-er-datex/bestille-tilgang-til-datex/) |
-| Vegvesen (DatexII) | [docs.datex2.eu](https://docs.datex2.eu/) | [Using DATEX II](https://docs.datex2.eu/v3.3/using) |
-| Vegvesen (DatexII Academy) | [datex2.eu/academy](https://datex2.eu/academy/) | — |
-| Vegvesen (DatexII examples) | [git.vegvesen.no](https://git.vegvesen.no/projects/DATEX2/repos/datex2-spesifications/browse/3.1/webapp-examples) | — |
-| YR | [developer.yr.no](https://developer.yr.no/) | [Kom i gang](https://developer.yr.no/doc/GettingStarted/) |
-| Ruter | [developer.entur.org](https://developer.entur.org/) | [Kom i gang](https://developer.entur.org/pages-intro-getstarted/) |
+Klikk en tilbyder for å utvide.
 
-Ruter-data går via Entur (`RUT`). Sjekk vilkår hos hver tilbyder før produksjonsbruk.
+<details>
+<summary><strong>Vegvesen</strong></summary>
+
+| Tjeneste | Dokumentasjon | Slik bruker du |
+| --- | --- | --- |
+| Åpne data | [vegvesen.no](https://www.vegvesen.no/fag/teknologi/apne-data/et-utvalg-apne-data/) | [Slik får du tilgang](https://www.vegvesen.no/fag/teknologi/apne-data/slik-far-du-tilgang-til-et-api/) |
+| DATEX trafikk | [vegvesen.no — DATEX](https://www.vegvesen.no/fag/teknologi/apne-data/et-utvalg-apne-data/hva-er-datex/) | [Bestill tilgang](https://www.vegvesen.no/fag/teknologi/apne-data/et-utvalg-apne-data/hva-er-datex/bestille-tilgang-til-datex/) |
+| DatexII | [docs.datex2.eu](https://docs.datex2.eu/) | [Using DATEX II](https://docs.datex2.eu/v3.3/using) |
+| DatexII Academy | [datex2.eu/academy](https://datex2.eu/academy/) | — |
+| DatexII examples | [git.vegvesen.no](https://git.vegvesen.no/projects/DATEX2/repos/datex2-spesifications/browse/3.1/webapp-examples) | — |
+
+</details>
+
+<details>
+<summary><strong>YR</strong> · MET Norway</summary>
+
+| Tjeneste | Dokumentasjon | Slik bruker du |
+| --- | --- | --- |
+| Vær-API | [developer.yr.no](https://developer.yr.no/) | [Kom i gang](https://developer.yr.no/doc/GettingStarted/) |
+
+</details>
+
+<details>
+<summary><strong>Ruter</strong> · via Entur</summary>
+
+| Tjeneste | Dokumentasjon | Slik bruker du |
+| --- | --- | --- |
+| Kollektivdata | [developer.entur.org](https://developer.entur.org/) | [Kom i gang](https://developer.entur.org/pages-intro-getstarted/) |
+
+Ruter-data går via Entur (`RUT` codespace).
+
+</details>
+
+Sjekk vilkår hos hver tilbyder før produksjonsbruk.
 
 ---
 
