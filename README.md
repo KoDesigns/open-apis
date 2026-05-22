@@ -5,6 +5,26 @@ Samling av **offisielle, åpne API-er** fra norske etater og operatører. Primæ
 Klikk en tilbyder for å utvide.
 
 <details>
+<summary><strong>Kartverket</strong></summary>
+
+| Tjeneste | Dokumentasjon | Slik bruker du |
+| --- | --- | --- |
+| API og data | [kartverket.no](https://kartverket.no/api-og-data) | [Bruke API-er (Geonorge)](https://www.geonorge.no/aktuelt/om-geonorge/slik-bruker-du-geonorge/bruke-tjenester-og-api-er/) |
+
+</details>
+
+<details>
+<summary><strong>Ruter</strong> · via Entur</summary>
+
+| Tjeneste | Dokumentasjon | Slik bruker du |
+| --- | --- | --- |
+| Kollektivdata | [developer.entur.org](https://developer.entur.org/) | [Kom i gang](https://developer.entur.org/pages-intro-getstarted/) |
+
+Ruter-data går via Entur (`RUT` codespace).
+
+</details>
+
+<details>
 <summary><strong>Vegvesen</strong></summary>
 
 | Tjeneste | Dokumentasjon | Slik bruker du |
@@ -23,17 +43,6 @@ Klikk en tilbyder for å utvide.
 | Tjeneste | Dokumentasjon | Slik bruker du |
 | --- | --- | --- |
 | Vær-API | [developer.yr.no](https://developer.yr.no/) | [Kom i gang](https://developer.yr.no/doc/GettingStarted/) |
-
-</details>
-
-<details>
-<summary><strong>Ruter</strong> · via Entur</summary>
-
-| Tjeneste | Dokumentasjon | Slik bruker du |
-| --- | --- | --- |
-| Kollektivdata | [developer.entur.org](https://developer.entur.org/) | [Kom i gang](https://developer.entur.org/pages-intro-getstarted/) |
-
-Ruter-data går via Entur (`RUT` codespace).
 
 </details>
 
